@@ -1,5 +1,5 @@
 Documentacio
-# Encabezado 1
+# Ejuan
 ## Encabezado 2
 ### Encabezado 3
 Texto en negrita y cursiva
@@ -19,3 +19,4 @@ crear una lista numerada, utiliza el número seguido de un punto. Por ejemplo:
 
  Este es un [enlace a Google](https://www.google.com.pe/?hl=es)
 
+![Imagen de un gato](https://purina.com.co/sites/default/files/2022-11/purina-brand-cuanto-vive-un-gato-nota_03.jpg)
